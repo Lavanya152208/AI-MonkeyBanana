@@ -1,0 +1,4 @@
+Initial State: Monkey: False, Box: False, Banana: False
+After pushing the box: Monkey: False, Box: True, Banana: False
+After climbing the box: Monkey: True, Box: True, Banana: False
+Banana grabbed!
